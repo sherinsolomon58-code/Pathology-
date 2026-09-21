@@ -1,0 +1,23 @@
+{
+  "name": "Hematology Dry Practical Lab",
+  "short_name": "Heme Practical",
+  "description": "Free educational dry-practical simulator for MLT students.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f7f7",
+  "theme_color": "#0f766e",
+  "categories": [
+    "education",
+    "medical"
+  ],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
